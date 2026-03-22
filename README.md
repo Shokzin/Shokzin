@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Hi, I am Álefe
 
 ## 📊 GitHub Stats
@@ -29,3 +31,5 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/naoehosk/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%A1lefe-alexandre-9547a1258/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alefetoledo.dev@gmail.com)
+
+</div>
