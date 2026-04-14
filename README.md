@@ -1,29 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=200&section=header&text=Álefe%20Alexandre&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Analysis%20%26%20Development%20%7C%20Cybersecurity&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=200&section=header&text=Álefe%20Alexandre&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Analysis%20%26%20Development%20%7C%20Cybersecurity&descAlignY=55&descAlign=50" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Aspiring+Ethical+Hacker+%E2%98%A0%EF%B8%8F;Security+Researcher+in+Progress;Building+DedSec+%E2%80%94+AI+Vulnerability+Scanner;We+are+everywhere." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Aspiring+Ethical+Hacker;Security+Researcher+in+Progress;Building+DedSec+%E2%80%94+AI+Vulnerability+Scanner;We+are+everywhere." alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Shokzin&label=Profile+Views&color=00ff41&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Shokzin&label=Profile+Views&color=7F3FBF&style=flat-square" alt="profile views" />
 &nbsp;
-<img src="https://img.shields.io/badge/Focus-Cybersecurity-00ff41?style=flat-square" />
+<img src="https://img.shields.io/badge/Focus-Cybersecurity-7F3FBF?style=flat-square" />
 &nbsp;
-<img src="https://img.shields.io/badge/Degree-Systems%20Analysis%20%26%20Dev-00ff41?style=flat-square" />
+<img src="https://img.shields.io/badge/Degree-Systems%20Analysis%20%26%20Dev-7F3FBF?style=flat-square" />
 
 </div>
 
 ---
 
-## ☠️ About Me
+## About Me
 
 ```python
 class Alefe:
     name       = "Álefe Alexandre"
     degree     = "Systems Analysis and Development (finishing)"
     goal       = "Cybersecurity Engineer / Ethical Hacker"
-    location   = "Brazil 🇧🇷"
+    location   = "Brazil"
     focus      = ["Vulnerability Analysis", "Penetration Testing", "Secure Architecture"]
     currently  = "Building DedSec — AI-powered vulnerability scanner"
     open_to    = "Internships and entry-level cybersecurity roles"
@@ -33,7 +33,7 @@ I am finishing my degree in Systems Analysis and Development with a clear focus 
 
 ---
 
-## 🔬 Main Project — DedSec
+## Main Project — DedSec
 
 > AI-Powered Vulnerability Analysis Platform
 
@@ -41,81 +41,59 @@ DedSec scans any public GitHub repository and returns a detailed security report
 
 **What it detects:** Exposed API keys · SQL Injection · XSS · Hardcoded credentials · IDOR · Command injection · Unsafe deserialization · Business logic flaws
 
-[![DedSec](https://img.shields.io/badge/☠%EF%B8%8F_DedSec-View_Repository-00ff41?style=for-the-badge)](https://github.com/Shokzin/dedsec)
+[![DedSec](https://img.shields.io/badge/DedSec-View_Repository-7F3FBF?style=for-the-badge)](https://github.com/Shokzin/dedsec)
 
 ---
 
-## 🛠️ Tech Stack
+## Currently Learning
 
 <div align="center">
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Frameworks & Platforms**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-
-**Tools & Environment**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-**Security Focus**
-
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,js,ts,react" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## Tools I Use
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shokzin&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shokzin&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41"/>
-
-<img src="https://streak-stats.demolab.com?user=Shokzin&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="streak" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
 
 </div>
 
 ---
 
-## 🎯 Currently Learning
+## GitHub Stats
 
-- Penetration testing methodologies (OWASP, PTES)
-- Network security and traffic analysis
-- AI-assisted vulnerability detection
-- Docker and containerized security environments
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shokzin&theme=2077" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shokzin&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shokzin&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com?user=Shokzin&theme=midnight-purple&hide_border=true" alt="streak" />
+
+</div>
 
 ---
 
-## 💼 Open to Opportunities
+## Open to Opportunities
 
 I am actively looking for **internship or entry-level positions** in:
 
 - Cybersecurity / Information Security
 - Penetration Testing
-- Backend Development (Python / FastAPI)
+- Backend Development
 - Security Engineering
 
-📧 **alefetoledo.dev@gmail.com**
+**alefetoledo.dev@gmail.com**
 
 ---
 
-## 🌐 Connect
+## Connect
 
 <div align="center">
 
@@ -130,7 +108,7 @@ I am actively looking for **internship or entry-level positions** in:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=100&section=footer" />
 
 *"Security is not a product, but a process."*
 
