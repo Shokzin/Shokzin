@@ -24,7 +24,7 @@ class Alefe:
     degree     = "Systems Analysis and Development (finishing)"
     goal       = "Cybersecurity Engineer / Ethical Hacker"
     location   = "Brazil"
-    focus      = ["Vulnerability Analysis", "Penetration Testing", "Secure Architecture"]
+    focus      = "Vulnerability Analysis", "Penetration Testing", "Secure Architecture"
     currently  = "Building DedSec — AI-powered vulnerability scanner"
     open_to    = "Internships and entry-level cybersecurity roles"
 ```
@@ -57,7 +57,13 @@ Tools I Use
 ---
 
 GitHub Stats
-<div align="center"> <a href="https://github.com/Shokzin"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shokzin&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shokzin&amp;layout=compact&amp;langs_count=7&amp;theme=dracula"/> </a> </div>
+
+<div align="center">
+  <a href="https://github.com/Shokzin">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shokzin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shokzin&layout=compact&langs_count=16&theme=dracula"/>
+  </a>
+</div>
 
 ---
 
