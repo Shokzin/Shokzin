@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=200&section=header&text=Álefe%20Alexandre&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Analysis%20%26%20Development%20%7C%20Cybersecurity&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7F3FBF&amp;height=200&amp;section=header&amp;text=Álefe%20Alexandre&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Systems%20Analysis%20%26%20Development%20%7C%20Cybersecurity&amp;descAlignY=55&amp;descAlign=50" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7F3FBF&center=true&vCenter=true&width=600&lines=Aspiring+Ethical+Hacker;Security+Researcher+in+Progress;Building+DedSec+%E2%80%94+AI+Vulnerability+Scanner;We+are+everywhere." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=7F3FBF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Aspiring+Ethical+Hacker;Security+Researcher+in+Progress;Building+DedSec+%E2%80%94+AI+Vulnerability+Scanner;We+are+everywhere." alt="Typing SVG" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Shokzin&label=Profile+Views&color=7F3FBF&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Shokzin&amp;label=Profile+Views&amp;color=7F3FBF&amp;style=flat-square" alt="profile views" />
 &nbsp;
 <img src="https://img.shields.io/badge/Focus-Cybersecurity-7F3FBF?style=flat-square" />
 &nbsp;
