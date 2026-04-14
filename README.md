@@ -39,8 +39,14 @@ DedSec scans repositories and returns a detailed security report with a score, f
 
 Currently Learning
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,js,ts,react" /> </div>
+
+---
+
 Tools I Use
 <div align="center"> <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" /> </div>
+
+---
+
 GitHub Stats
 <div align="center"> <a href="https://github.com/Shokzin"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shokzin&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shokzin&amp;layout=compact&amp;langs_count=7&amp;theme=dracula"/> </a> </div>
 
