@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7F3FBF&amp;height=200&amp;section=header&amp;text=Álefe%20Alexandre&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Systems%20Analysis%20%26%20Development%20%7C%20Cybersecurity&amp;descAlignY=55&amp;descAlign=50" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=7F3FBF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Aspiring+Ethical+Hacker;Security+Researcher+in+Progress;Building+DedSec+%E2%80%94+AI+Vulnerability+Scanner;We+are+everywhere." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=7F3FBF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Aspiring+Ethical+Hacker;Security+Researcher+in+Progress;Building+DedSec+%E2%80%94+AI+Vulnerability+Scanner;We+are+everywhere." />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Shokzin&amp;label=Profile+Views&amp;color=7F3FBF&amp;style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Shokzin&amp;label=Profile+Views&amp;color=7F3FBF&amp;style=flat-square" />
 &nbsp;
 <img src="https://img.shields.io/badge/Focus-Cybersecurity-7F3FBF?style=flat-square" />
 &nbsp;
@@ -31,52 +31,18 @@ class Alefe:
 
 I am finishing my degree in Systems Analysis and Development with a clear focus on cybersecurity. My graduation project, **DedSec**, is an AI-powered platform that scans GitHub repositories for security vulnerabilities — combining static analysis, AST parsing, and Claude AI to detect everything from exposed secrets to business logic flaws.
 
----
+Main Project — DedSec
 
-## Main Project — DedSec
+AI-Powered Vulnerability Analysis Platform
 
-> AI-Powered Vulnerability Analysis Platform
+DedSec scans repositories and returns a detailed security report with a score, findings, and remediation suggestions.
 
-DedSec scans any public GitHub repository and returns a detailed security report with a score from 0 to 100, file-level findings, CWE classifications, and remediation advice.
-
-**What it detects:** Exposed API keys · SQL Injection · XSS · Hardcoded credentials · IDOR · Command injection · Unsafe deserialization · Business logic flaws
-
-[![DedSec](https://img.shields.io/badge/DedSec-View_Repository-7F3FBF?style=for-the-badge)](https://github.com/Shokzin/dedsec)
-
----
-
-## Currently Learning
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,ts,react" />
-
-</div>
-
----
-
-## Tools I Use
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode" />
-
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shokzin&theme=2077" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shokzin&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shokzin&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com?user=Shokzin&theme=midnight-purple&hide_border=true" alt="streak" />
-
-</div>
+Currently Learning
+<div align="center"> <img src="https://skillicons.dev/icons?i=python,js,ts,react" /> </div>
+Tools I Use
+<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" /> </div>
+GitHub Stats
+<div align="center"> <a href="https://github.com/Shokzin"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shokzin&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shokzin&amp;layout=compact&amp;langs_count=7&amp;theme=dracula"/> </a> </div>
 
 ---
 
