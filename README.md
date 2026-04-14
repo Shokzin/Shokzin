@@ -38,12 +38,21 @@ AI-Powered Vulnerability Analysis Platform
 DedSec scans repositories and returns a detailed security report with a score, findings, and remediation suggestions.
 
 Currently Learning
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,js,ts,react" /> </div>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
 ---
 
 Tools I Use
-<div align="center"> <img src="https://skillicons.dev/icons?i=git,github,docker,vscode" /> </div>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+</div>
 
 ---
 
