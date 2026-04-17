@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7F3FBF&amp;height=200&amp;section=header&amp;text=Álefe%20Alexandre&amp;fontSize=50&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Systems%20Analysis%20%26%20Development%20%7C%20Cybersecurity&amp;descAlignY=55&amp;descAlign=50" />
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=7F3FBF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Aspiring+Ethical+Hacker;Security+Researcher+in+Progress;Building+DedSec+%E2%80%94+AI+Vulnerability+Scanner;We+are+everywhere." />
 
 <br/>
@@ -39,19 +37,19 @@ DedSec scans repositories and returns a detailed security report with a score, f
 
 Currently Learning
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" style="margin: 10px;" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" style="margin: 10px;" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" style="margin: 10px;" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" style="margin: 10px;" />
 </div>
 
 ---
 
 Tools I Use
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" style="margin: 10px;" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" style="margin: 10px;" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="50" style="margin: 10px;" />
 </div>
 
 ---
