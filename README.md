@@ -56,8 +56,9 @@ Tools I Use
 
 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shokzin&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Shokzin&theme=tokyonight" />
 </p>
+
 <div align="center">
   <a href="https://github.com/Shokzin">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shokzin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
