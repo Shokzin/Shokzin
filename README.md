@@ -19,7 +19,7 @@
 ```python
 class Alefe:
     nome       = "Álefe Alexandre"
-    formação     = "Systems Analysis and Development (finishing)"
+    formação     = "Analise e Desenvolvimento de Sistemas (finalizando)"
     objetivo       = "Desenvolvedor backend / Pentester"
     foco      = "Programação", "Pentest"
     atualmente  = "Construindo DedSec — Plataforma de Analises de Vulnerabilidades"
@@ -30,11 +30,11 @@ Estou concluindo minha graduação em Analise e Desenvolvimento de Sistemas. Meu
 
 Projeto Principal — DedSec
 
-Plataforma de Analises de Vulnerabilidades
+Plataforma de Analise de Vulnerabilidades
 
 O DedSec analisa repositórios e retorna um relatório de segurança detalhado com pontuação, descobertas e sugestões de correção.
 
-Atualmente Aprendendo
+Atualmente Aprendendo/Usando
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" style="margin: 10px;" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" style="margin: 10px;" />
@@ -72,6 +72,7 @@ Estatísticas do GitHub
 Estou em busca ativa de **estágios ou posições de nível inicial** em:
 
 - Desenvolvimento Backend
+- Desenvolvimento Frontend
 - Engenharia de Software
 - Arquitetura de APIs e Microserviços
 - Integração de Sistemas de IA
