@@ -14,28 +14,27 @@
 
 ---
 
-## About Me
+## Sobre mim
 
 ```python
 class Alefe:
-    name       = "Álefe Alexandre"
-    degree     = "Systems Analysis and Development (finishing)"
-    goal       = "Cybersecurity Engineer / Ethical Hacker"
-    location   = "Brazil"
-    focus      = "Vulnerability Analysis", "Penetration Testing", "Secure Architecture"
-    currently  = "Building DedSec — AI-powered vulnerability scanner"
-    open_to    = "Internships and entry-level cybersecurity roles"
+    nome       = "Álefe Alexandre"
+    formação     = "Systems Analysis and Development (finishing)"
+    objetivo       = "Desenvolvedor backend / Pentester"
+    foco      = "Programação", "Pentest"
+    atualmente  = "Construindo DedSec — Plataforma de Analises de Vulnerabilidades"
+    aberto_a    = "Estágios e vagas como desenvolvedor backend"
 ```
 
-I am finishing my degree in Systems Analysis and Development with a clear focus on cybersecurity. My graduation project, **DedSec**, is an AI-powered platform that scans GitHub repositories for security vulnerabilities — combining static analysis, AST parsing, and Claude AI to detect everything from exposed secrets to business logic flaws.
+Estou concluindo minha graduação em Analise e Desenvolvimento de Sistemas. Meu projeto de graduação, **DedSec**, é uma plataforma baseada que varre repositórios do GitHub em busca de vulnerabilidades de segurança — combinando análise estática e análise de AST para detectar desde segredos expostos até falhas de lógica de negócio.
 
-Main Project — DedSec
+Projeto Principal — DedSec
 
-AI-Powered Vulnerability Analysis Platform
+Plataforma de Analises de Vulnerabilidades
 
-DedSec scans repositories and returns a detailed security report with a score, findings, and remediation suggestions.
+O DedSec analisa repositórios e retorna um relatório de segurança detalhado com pontuação, descobertas e sugestões de correção.
 
-Currently Learning
+Atualmente Aprendendo
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" style="margin: 10px;" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" style="margin: 10px;" />
@@ -45,7 +44,7 @@ Currently Learning
 
 ---
 
-Tools I Use
+Ferramentas que Utilizo
 <div align="center">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" style="margin: 10px;" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" style="margin: 10px;" />
@@ -54,7 +53,7 @@ Tools I Use
 
 ---
 
-GitHub Stats
+Estatísticas do GitHub
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Shokzin&theme=tokyonight" />
 </p>
@@ -68,20 +67,20 @@ GitHub Stats
 
 ---
 
-## Open to Opportunities
+## Aberto a Oportunidades
 
-I am actively looking for **internship or entry-level positions** in:
+Estou em busca ativa de **estágios ou posições de nível inicial** em:
 
-- Cybersecurity / Information Security
-- Penetration Testing
-- Backend Development
-- Security Engineering
+- Desenvolvimento Backend
+- Engenharia de Software
+- Arquitetura de APIs e Microserviços
+- Integração de Sistemas de IA
 
 **alefetoledo.dev@gmail.com**
 
 ---
 
-## Connect
+## Contato
 
 <div align="center">
 
